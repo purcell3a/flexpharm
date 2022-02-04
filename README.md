@@ -1,6 +1,7 @@
 # flexpharm
 Hackathon Project with Clovyr and Chia
 
+
 ## Objective
 
 - This project is designed to help individuals purchase necessary prescriptions at bulk price from manufacturers, allowing them to avoid unsupported mark-up in the pharmaceutical industry. (Think insulin, inhalers etc. )
