@@ -58,4 +58,4 @@ Hackathon Project with Clovyr and Chia
         1. lowest price accepted for prescription
         2. closest bank to being full 
 
-   The piggy bank hierarchy motivates recievers to compete in accepted price for the order in order to GET that order/buisness/whatever
+   The piggy bank hierarchy motivates recievers to compete for lowest accepted price  in order to WIN that order/buisness/whatever
