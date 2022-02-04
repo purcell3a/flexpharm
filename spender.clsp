@@ -34,12 +34,6 @@
   ; define function to spend coin on piggy bank when info is verified
 
 
-  ; define function to accept deposit and recreate piggybank with new balance
-  (defun-inline recreate_self (my_amount new_amount my_puzzlehash)
-    (list 
-      (list CREATE_COIN my_puzzlehash new_amount)
-    )
-  )
 
 ; main control flow
 
