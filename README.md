@@ -12,8 +12,8 @@ Hackathon Project with Clovyr and Chia
 
 - recievers are modeled after the "piggybank example", recievers set up a piggy bank and when that bank has met a certain monetary amount the prescriptions are filled & shipped to the address of each coin in the piggy bank
 
-### User
-- users put in a request for a prescription which contains:
+### Spenders
+- spenders put in a request for a prescription which contains:
     - personal address or pharmacy for pickup
     - wallet for payment
     - doctors contact
