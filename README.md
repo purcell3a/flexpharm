@@ -32,12 +32,12 @@ Hackathon Project with Clovyr and Chia
 
  Users are broken up into two categories (spenders & recievers)
 
-### spenders 
-   any individual with a a prescription
+### Spenders 
+   - any individual with a a prescription
 
    - doctors & doctors offices (those who prescribe)
 
-### receivers
+### Receivers
 
    - Governments 
         - Implement this on a state level and take a small cut to fund medicare
@@ -46,7 +46,7 @@ Hackathon Project with Clovyr and Chia
         - organize it and take a small cut, (capped at x percent)
         - think private orgs funding more experimental medication or procedures 
 
-   - manufacturing fascilities &/or distribution centers
+   - Manufacturing fascilities &/or distribution centers
         - Implement this for a direct-to-consumer model
 
 ### PiggyBank System Heirarchy
