@@ -16,7 +16,7 @@ Hackathon Project with Clovyr and Chia
 
 - Since it seems there's no great way of building something like this on CHIA that I'm cognizant of at the moment I figured i'd alteast flesh out the idea as much as possible and submit. Maybe some one will think of something. :) 
 
-- considering the blockchain is public and this would be a breach of privacy for the individuals there would need to be some cryptographical gymnastics with a users information. This could look like verifying information through an app that sends the orders to the recievers bank without personal identifying information and the corresponding users information to a local pharmacy where they can pick it up. 
+- considering the blockchain is public and this would be a breach of privacy for the individuals there would need to be some cryptographical gymnastics with a users information. This could look like verifying information through an app that sends the orders to the recievers bank without personal identifying information and the corresponding users information to a local pharmacy where they can pick it up.  EDIT: looking into Zero-knowledge_proofs
 
 
 
